@@ -7,6 +7,7 @@ I'm a software developer.
 I'm trying to improve it every day by fixing something or explaining better some other points so why don't treat it as a software project?
 
 ## CHANGELOG - Newest updates up
+* 1.0.4 - Add more details about experiences with common tools (Postman, Bitbucket, Terraform, etc...)
 * 1.0.3 - Fix some typos
 * 1.0.2 - Improve README, update description of repo
 * 1.0.1 - Update README
